@@ -80,7 +80,7 @@ h1{
    
     top: 0%;
     left: 50px;
-    width: 100%;
+    width: 80%;
     position: absolute;
     color: #0F0F0F;
     border-bottom: 2px solid rgba(0, 0, 0, 0.158);
@@ -128,4 +128,17 @@ border: none;
 .box:hover
 {
     background-color: orange;
+}
+.kalendar
+{
+    float: right;
+    padding-top: 5%;
+    border-left:2px solid rgba(0, 0, 0, 0.158);
+    height: 100%;
+}
+
+.main
+{
+    padding-left: 10%;
+    padding-top: 5%;
 }
